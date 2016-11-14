@@ -1,1 +1,1 @@
-web: gunicorn porra_nenhuma.wsgi
+web: gunicorn porra_nenhuma:app
